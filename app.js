@@ -1,5 +1,6 @@
 import "./styles.css";
 import TimeAgo from 'react-time-ago'
+// also install npm package as `javascript-time-ago`
 
 export default function App() {
   const time = "2023-01-20T12:02:20.000Z";
